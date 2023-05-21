@@ -1,0 +1,40 @@
+repos:
+  #
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-yaml              ### Control YAML format
+      - id: end-of-file-fixer       ### Fix end of file with one line
+      - id: trailing-whitespace     ### Remove end of line spaces
+      - id: check-added-large-files ### Check files size to add only 500ko max
+      - id: check-merge-conflict    ### Check if there is already merge conflict(s)
+      - id: detect-private-key      ### Detect private keys
+
+      # Python
+      - id: check-ast               ### Checks whether the files parse as valid python
+      - id: check-builtin-literals  ### Requires literal syntax when initializing empty or zero python builtin types
+      - id: check-docstring-first   ### Checks a common error of defining a docstring after code
+      - id: debug-statements        ### Check for debugger imports and py37+ breakpoint() calls
+      - id: double-quote-string-fixer ### Fix single quoted strings to be double quoted
+      - id: fix-encoding-pragma     ### Fix incorrect or missing file encoding pragmas
+
+  # Python
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    # Ruff version.
+    rev: v0.0.269
+    hooks:
+      - id: ruff
+        args: [--fix, --exit-non-zero-on-fix]
+
+  # Checkov
+  - repo: https://github.com/bridgecrewio/checkov.git
+    rev: '2.3.152'
+    hooks:
+      - id: checkov ### Check misconfiguration and security issues
+
+  # Conventional Commit
+  - repo: https://github.com/compilerla/conventional-pre-commit
+    rev: v2.1.1
+    hooks:
+      - id: conventional-pre-commit ### Check if the commit message is compliant with the conventional commit style
+        stages: [commit-msg]

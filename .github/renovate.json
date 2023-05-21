@@ -1,0 +1,39 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>renovatebot/.github"
+  ],
+  "platform": "github",
+  "platformAutomerge": true,
+  "branchPrefix": "fix/deps/",
+  "addLabels": [
+    "dependencies",
+    "security"
+  ],
+  "assignees": [
+    "timoa"
+  ],
+  "packageRules": [
+    {
+      "description": "Automerge renovate minor and patch updates",
+      "matchPackageNames": [
+        "renovate/renovate"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
+      "automerge": true,
+      "branchTopic": "{{{depNameSanitized}}}-{{{currentValue}}}"
+    },
+    {
+      "description": "Allow updates after 30 days and create a release",
+      "excludePackageNames": [
+        "renovate/renovate"
+      ],
+      "separateMinorPatch": true,
+      "minimumReleaseAge": "30 days",
+      "semanticCommitType": "fix"
+    }
+  ]
+}
