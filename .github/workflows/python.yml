@@ -99,5 +99,3 @@ jobs:
 
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@8e58d20d0f6c8773181f43eb74d6a05e3099571d # v3.4.2
-        env:
-          GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
