@@ -1,3 +1,10 @@
+# [0.1.0](https://github.com/timoa/ai-gpt-experiments/compare/v0.0.2...v0.1.0) (2023-05-21)
+
+
+### Features
+
+* **examples:** add first release for simple question & answer example ([8886ea0](https://github.com/timoa/ai-gpt-experiments/commit/8886ea0df1ee9ec78e9ac2b8de44d8d3fa9c5276))
+
 ## [0.0.2](https://github.com/timoa/ai-gpt-experiments/compare/v0.0.1...v0.0.2) (2023-05-21)
 
 
