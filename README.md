@@ -11,6 +11,8 @@ Be aware that the ecosystem around AI is still in development and the projects a
 
 I will try to keep this repository up-to-date, but let me know if you face any issue by opening an issue.
 
+> **Note:** This project is still in development and currently run only on Apple M1. I'm currently searching which Python library doesn't work on Intel/AMD processor.
+
 ## Introduction
 
 To start, I'm using [GPT4All][gpt4all-website] to run a local ChatGPT model instead of using the OpenAI API.
