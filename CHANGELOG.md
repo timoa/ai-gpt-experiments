@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.0...v0.1.1) (2023-06-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency requests to v2.31.0 [security] ([d97c2b0](https://github.com/timoa/ai-gpt-experiments/commit/d97c2b04857dc2fda48c4d5ae93fd62d7ea8db1b))
+
 # [0.1.0](https://github.com/timoa/ai-gpt-experiments/compare/v0.0.2...v0.1.0) (2023-05-21)
 
 
