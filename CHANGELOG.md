@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.1...v0.1.2) (2023-06-02)
+
+
+### Bug Fixes
+
+* **deps:** update step-security/harden-runner digest to beefd8c ([295e5da](https://github.com/timoa/ai-gpt-experiments/commit/295e5daa1ee7976b2aabe36387cfc292e8594b65))
+
 ## [0.1.1](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.0...v0.1.1) (2023-06-01)
 
 
