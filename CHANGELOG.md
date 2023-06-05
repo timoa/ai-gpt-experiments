@@ -1,3 +1,10 @@
+## [0.1.3](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.2...v0.1.3) (2023-06-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency cryptography to v41 [security] ([95e01b1](https://github.com/timoa/ai-gpt-experiments/commit/95e01b1a7fbeadcd35a5f3e4442275275200ad05))
+
 ## [0.1.2](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.1...v0.1.2) (2023-06-02)
 
 
