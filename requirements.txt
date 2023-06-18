@@ -24,7 +24,7 @@ httpx==0.23.3
 idna==3.4
 joblib==1.2.0
 langchain==0.0.174
-llama-cpp-python==0.1.50
+llama-cpp-python==0.1.51
 lxml==4.9.2
 Markdown==3.4.3
 marshmallow==3.19.0
