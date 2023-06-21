@@ -1,3 +1,10 @@
+## [0.1.14](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.13...v0.1.14) (2023-06-21)
+
+
+### Bug Fixes
+
+* **deps:** update step-security/harden-runner digest to 532ef4a ([c5b7989](https://github.com/timoa/ai-gpt-experiments/commit/c5b7989ebdfbb42d917c551ad57529c39df665f2))
+
 ## [0.1.13](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.12...v0.1.13) (2023-06-21)
 
 
