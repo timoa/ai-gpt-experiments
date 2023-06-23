@@ -1,3 +1,10 @@
+## [0.1.22](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.21...v0.1.22) (2023-06-23)
+
+
+### Bug Fixes
+
+* **deps:** update actions/setup-python action to v4.6.1 ([836150d](https://github.com/timoa/ai-gpt-experiments/commit/836150db0fdaf26e52f3a6d69bcfbf8b432187b5))
+
 ## [0.1.21](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.20...v0.1.21) (2023-06-23)
 
 
