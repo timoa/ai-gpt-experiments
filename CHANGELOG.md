@@ -1,3 +1,10 @@
+## [0.1.21](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.20...v0.1.21) (2023-06-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency typing_extensions to v4.6.1 ([5df270f](https://github.com/timoa/ai-gpt-experiments/commit/5df270f97daec286e59f6e4a381541167e92da4a))
+
 ## [0.1.20](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.19...v0.1.20) (2023-06-23)
 
 
