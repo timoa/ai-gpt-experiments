@@ -1,3 +1,10 @@
+## [0.1.25](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.24...v0.1.25) (2023-06-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency typing-inspect to v0.9.0 ([291b178](https://github.com/timoa/ai-gpt-experiments/commit/291b17839a1647a00ea4cdec9936e310a8f7a647))
+
 ## [0.1.24](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.23...v0.1.24) (2023-06-24)
 
 
