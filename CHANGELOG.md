@@ -1,3 +1,10 @@
+## [0.1.29](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.28...v0.1.29) (2023-06-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency langchain to v0.0.181 ([e5cdab2](https://github.com/timoa/ai-gpt-experiments/commit/e5cdab2d332f12da1954c26fa57894c04976757a))
+
 ## [0.1.28](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.27...v0.1.28) (2023-06-25)
 
 
