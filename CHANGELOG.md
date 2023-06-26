@@ -1,3 +1,10 @@
+## [0.1.32](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.31...v0.1.32) (2023-06-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency anyio to v3.7.0 ([d80f098](https://github.com/timoa/ai-gpt-experiments/commit/d80f098854a75555d1c80d5d764b2a34d4d0d7af))
+
 ## [0.1.31](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.30...v0.1.31) (2023-06-26)
 
 
