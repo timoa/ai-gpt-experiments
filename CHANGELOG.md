@@ -1,3 +1,10 @@
+## [0.1.33](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.32...v0.1.33) (2023-06-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency deprecated to v1.2.14 ([7ea1526](https://github.com/timoa/ai-gpt-experiments/commit/7ea152658a396a505d84a63321ac1398e653bf6b))
+
 ## [0.1.32](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.31...v0.1.32) (2023-06-26)
 
 
