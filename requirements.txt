@@ -69,7 +69,7 @@ tqdm==4.65.0
 typer==0.9.0
 typing-inspect==0.9.0
 typing_extensions==4.6.3
-unstructured==0.6.11
+unstructured==0.7.1
 urllib3==2.0.2
 wrapt==1.14.1
 XlsxWriter==3.1.2
