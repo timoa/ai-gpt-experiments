@@ -1,3 +1,10 @@
+## [0.1.47](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.46...v0.1.47) (2023-07-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency azure-core to v1.27.0 ([902dcc0](https://github.com/timoa/ai-gpt-experiments/commit/902dcc02fe7feb779ae7ca5d380404f1d3135b0e))
+
 ## [0.1.46](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.45...v0.1.46) (2023-07-02)
 
 
