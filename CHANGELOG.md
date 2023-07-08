@@ -1,3 +1,10 @@
+## [0.1.61](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.60...v0.1.61) (2023-07-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency unstructured to v0.7.2 ([1dfb41f](https://github.com/timoa/ai-gpt-experiments/commit/1dfb41f0992533bca8961826df3f65beb6754860))
+
 ## [0.1.60](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.59...v0.1.60) (2023-07-08)
 
 
