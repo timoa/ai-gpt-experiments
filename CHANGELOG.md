@@ -1,3 +1,10 @@
+## [0.1.83](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.82...v0.1.83) (2023-07-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency argilla to v1.10.0 ([002eede](https://github.com/timoa/ai-gpt-experiments/commit/002eeded0da3062a0ccc820a1243d74cbf1c5ee8))
+
 ## [0.1.82](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.81...v0.1.82) (2023-07-15)
 
 
