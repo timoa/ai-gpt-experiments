@@ -23,7 +23,7 @@ httpcore==0.16.3
 httpx==0.23.3
 idna==3.4
 joblib==1.2.0
-langchain==0.0.205
+langchain==0.0.206
 llama-cpp-python==0.1.64
 lxml==4.9.2
 Markdown==3.4.3
