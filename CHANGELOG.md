@@ -1,3 +1,10 @@
+## [0.1.95](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.94...v0.1.95) (2023-07-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sqlalchemy to v2.0.17 ([da0bef4](https://github.com/timoa/ai-gpt-experiments/commit/da0bef4fb628527d25b9f72e9f4531ccf08467c5))
+
 ## [0.1.94](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.93...v0.1.94) (2023-07-23)
 
 
