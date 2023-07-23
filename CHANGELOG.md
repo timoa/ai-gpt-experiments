@@ -1,3 +1,10 @@
+## [0.1.92](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.91...v0.1.92) (2023-07-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency aiohttp to v3.8.5 [security] ([75ad02e](https://github.com/timoa/ai-gpt-experiments/commit/75ad02eca731f5ba07617426281be973280fa96d))
+
 ## [0.1.91](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.90...v0.1.91) (2023-07-20)
 
 
