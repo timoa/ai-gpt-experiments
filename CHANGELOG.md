@@ -1,3 +1,10 @@
+## [0.1.103](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.102...v0.1.103) (2023-07-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency certifi to v2023.7.22 [security] ([c100142](https://github.com/timoa/ai-gpt-experiments/commit/c100142f967fa0be32259df073cacacb543c5a96))
+
 ## [0.1.102](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.101...v0.1.102) (2023-07-25)
 
 
