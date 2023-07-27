@@ -1,3 +1,10 @@
+## [0.1.108](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.107...v0.1.108) (2023-07-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gpt4all to v0.3.6 ([57939a0](https://github.com/timoa/ai-gpt-experiments/commit/57939a0fb8a42478e94fb42f55b8023e422cbca1))
+
 ## [0.1.107](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.106...v0.1.107) (2023-07-27)
 
 
