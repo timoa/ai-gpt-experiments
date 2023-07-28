@@ -1,3 +1,10 @@
+## [0.1.112](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.111...v0.1.112) (2023-07-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency joblib to v1.3.0 ([78097cb](https://github.com/timoa/ai-gpt-experiments/commit/78097cbed73fb584c09dc1f5eac5012fb1fd822d))
+
 ## [0.1.111](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.110...v0.1.111) (2023-07-28)
 
 
