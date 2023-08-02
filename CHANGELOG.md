@@ -1,3 +1,10 @@
+## [0.1.125](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.124...v0.1.125) (2023-08-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency cryptography to v41.0.3 [security] ([bedf893](https://github.com/timoa/ai-gpt-experiments/commit/bedf893b0aada52721198231e37584e0db8ae8ad))
+
 ## [0.1.124](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.123...v0.1.124) (2023-08-02)
 
 
