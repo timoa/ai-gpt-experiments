@@ -1,3 +1,10 @@
+## [0.1.128](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.127...v0.1.128) (2023-08-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pydantic to v1.10.11 ([0837cc7](https://github.com/timoa/ai-gpt-experiments/commit/0837cc79dbd60adda2fd8f9223c49c760ea5a0d4))
+
 ## [0.1.127](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.126...v0.1.127) (2023-08-02)
 
 
