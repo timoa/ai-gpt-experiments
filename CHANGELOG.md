@@ -1,3 +1,10 @@
+## [0.1.131](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.130...v0.1.131) (2023-08-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency lxml to v4.9.3 ([0e0b239](https://github.com/timoa/ai-gpt-experiments/commit/0e0b239ea08bfecff9a0b31027c0cebd0801a02c))
+
 ## [0.1.130](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.129...v0.1.130) (2023-08-04)
 
 
