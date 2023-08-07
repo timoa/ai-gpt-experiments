@@ -1,3 +1,10 @@
+## [0.1.138](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.137...v0.1.138) (2023-08-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency charset-normalizer to v3.2.0 ([78921b7](https://github.com/timoa/ai-gpt-experiments/commit/78921b72a1438106fb0b87a5012d6b50ee37d46c))
+
 ## [0.1.137](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.136...v0.1.137) (2023-08-06)
 
 
