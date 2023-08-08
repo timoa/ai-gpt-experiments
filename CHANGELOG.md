@@ -1,3 +1,10 @@
+## [0.1.141](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.140...v0.1.141) (2023-08-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pyllamacpp to v2.4.1 ([3ef3d82](https://github.com/timoa/ai-gpt-experiments/commit/3ef3d82a6eb20dec70e13bf1d9e906f1ad65ed4a))
+
 ## [0.1.140](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.139...v0.1.140) (2023-08-07)
 
 
