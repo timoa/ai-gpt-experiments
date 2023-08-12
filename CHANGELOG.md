@@ -1,3 +1,10 @@
+## [0.1.150](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.149...v0.1.150) (2023-08-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency click to v8.1.5 ([6cca293](https://github.com/timoa/ai-gpt-experiments/commit/6cca2933e6946972ca20234e2a86e18e2ba7dae1))
+
 ## [0.1.149](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.148...v0.1.149) (2023-08-12)
 
 
