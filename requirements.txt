@@ -9,7 +9,7 @@ backoff==2.2.1
 certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
-click==8.1.4
+click==8.1.5
 commonmark==0.9.1
 cryptography==41.0.3
 dataclasses-json==0.5.9
