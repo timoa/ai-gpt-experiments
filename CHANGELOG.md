@@ -1,3 +1,10 @@
+## [0.1.149](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.148...v0.1.149) (2023-08-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency frozenlist to v1.4.0 ([bfeb0f8](https://github.com/timoa/ai-gpt-experiments/commit/bfeb0f88f28204aa03b9bf06e7662678d5be1c7b))
+
 ## [0.1.148](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.147...v0.1.148) (2023-08-10)
 
 
