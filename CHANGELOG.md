@@ -1,3 +1,10 @@
+## [0.1.154](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.153...v0.1.154) (2023-08-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency llama-cpp-python to v0.1.72 ([c786a88](https://github.com/timoa/ai-gpt-experiments/commit/c786a881a4b0aa419d9a726f765c829dfd411248))
+
 ## [0.1.153](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.152...v0.1.153) (2023-08-14)
 
 
