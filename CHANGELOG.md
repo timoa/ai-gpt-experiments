@@ -1,3 +1,10 @@
+## [0.1.157](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.156...v0.1.157) (2023-08-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pyyaml to v6.0.1 ([b6c3110](https://github.com/timoa/ai-gpt-experiments/commit/b6c31103e6df0865ec6b1dc1e420137cd9634d4e))
+
 ## [0.1.156](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.155...v0.1.156) (2023-08-16)
 
 
