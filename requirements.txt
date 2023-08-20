@@ -27,7 +27,7 @@ langchain==0.0.238
 llama-cpp-python==0.1.74
 lxml==4.9.3
 Markdown==3.4.3
-marshmallow==3.19.0
+marshmallow==3.20.1
 marshmallow-enum==1.5.1
 monotonic==1.6
 msg-parser==1.2.0
