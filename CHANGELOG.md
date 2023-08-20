@@ -1,3 +1,10 @@
+## [0.1.165](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.164...v0.1.165) (2023-08-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency marshmallow to v3.20.1 ([c939d23](https://github.com/timoa/ai-gpt-experiments/commit/c939d23cbeaf2bbfc12c4fc001f37a550e98a76b))
+
 ## [0.1.164](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.163...v0.1.164) (2023-08-20)
 
 
