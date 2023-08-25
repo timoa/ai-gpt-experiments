@@ -1,3 +1,10 @@
+## [0.1.172](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.171...v0.1.172) (2023-08-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency markdown to v3.4.4 ([550701d](https://github.com/timoa/ai-gpt-experiments/commit/550701d6322b7b490d8bc708fc479ff32ef8cc85))
+
 ## [0.1.171](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.170...v0.1.171) (2023-08-24)
 
 
