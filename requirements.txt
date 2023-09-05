@@ -46,7 +46,7 @@ pdfminer.six==20221105
 Pillow==9.5.0
 pycparser==2.21
 pydantic==1.10.12
-Pygments==2.15.1
+Pygments==2.16.1
 pyllamacpp==2.4.1
 pypandoc==1.11
 pypdf==3.15.0
