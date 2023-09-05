@@ -1,3 +1,10 @@
+## [0.1.191](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.190...v0.1.191) (2023-09-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pygments to v2.16.1 ([b4db4d3](https://github.com/timoa/ai-gpt-experiments/commit/b4db4d38b203ef2274e97f1e69b8c526665ae932))
+
 ## [0.1.190](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.189...v0.1.190) (2023-09-05)
 
 
