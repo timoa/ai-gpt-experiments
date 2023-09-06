@@ -1,3 +1,10 @@
+## [0.1.194](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.193...v0.1.194) (2023-09-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency numexpr to v2.8.5 ([f463512](https://github.com/timoa/ai-gpt-experiments/commit/f4635127f8fa4fbb3f9459abeec8cf301d6c1368))
+
 ## [0.1.193](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.192...v0.1.193) (2023-09-06)
 
 
