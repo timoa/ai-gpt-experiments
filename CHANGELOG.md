@@ -1,3 +1,10 @@
+## [0.1.197](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.196...v0.1.197) (2023-09-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency tqdm to v4.65.1 ([1f05ff5](https://github.com/timoa/ai-gpt-experiments/commit/1f05ff53d43967325ee1bea6a7694f0af22bbd05))
+
 ## [0.1.196](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.195...v0.1.196) (2023-09-07)
 
 
