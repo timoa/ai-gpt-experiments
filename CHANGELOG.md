@@ -1,3 +1,10 @@
+## [0.1.205](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.204...v0.1.205) (2023-09-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency async-timeout to v4.0.3 ([7e0cce8](https://github.com/timoa/ai-gpt-experiments/commit/7e0cce8f758113533aa28dc8db7a345544b2f315))
+
 ## [0.1.204](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.203...v0.1.204) (2023-09-09)
 
 
