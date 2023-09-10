@@ -1,3 +1,10 @@
+## [0.1.209](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.208...v0.1.209) (2023-09-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency regex to v2023.8.8 ([a37df95](https://github.com/timoa/ai-gpt-experiments/commit/a37df956ea2b50a076f6c2a3af4d5473ff48fa5a))
+
 ## [0.1.208](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.207...v0.1.208) (2023-09-10)
 
 
