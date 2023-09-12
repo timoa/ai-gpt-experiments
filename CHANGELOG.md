@@ -1,3 +1,10 @@
+## [0.1.213](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.212...v0.1.213) (2023-09-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pypdf to v3.15.1 ([5d7966b](https://github.com/timoa/ai-gpt-experiments/commit/5d7966b9ee8adaad8cd49080851e8017513d2aca))
+
 ## [0.1.212](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.211...v0.1.212) (2023-09-12)
 
 
