@@ -1,3 +1,10 @@
+## [0.1.214](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.213...v0.1.214) (2023-09-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency tenacity to v8.2.3 ([36fd32f](https://github.com/timoa/ai-gpt-experiments/commit/36fd32f9b551a381e91c15984a781988811f09c3))
+
 ## [0.1.213](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.212...v0.1.213) (2023-09-12)
 
 
