@@ -1,3 +1,10 @@
+## [0.1.235](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.234...v0.1.235) (2023-09-24)
+
+
+### Bug Fixes
+
+* **deps:** update actions/checkout action to v3.6.0 ([fd23d4e](https://github.com/timoa/ai-gpt-experiments/commit/fd23d4ea51d06a9d6336789004b640938e4e9a99))
+
 ## [0.1.234](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.233...v0.1.234) (2023-09-23)
 
 
