@@ -1,3 +1,10 @@
+## [0.1.249](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.248...v0.1.249) (2023-09-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency python-pptx to v0.6.22 ([df150e7](https://github.com/timoa/ai-gpt-experiments/commit/df150e7cfc3c2935b21fff66718ea7f9d040b63b))
+
 ## [0.1.248](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.247...v0.1.248) (2023-09-28)
 
 
