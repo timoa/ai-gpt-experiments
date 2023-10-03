@@ -1,3 +1,10 @@
+## [0.1.258](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.257...v0.1.258) (2023-10-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency urllib3 to v2.0.6 [security] ([71fa568](https://github.com/timoa/ai-gpt-experiments/commit/71fa56801e77debe3a00fcb465ae5a156f686ab7))
+
 ## [0.1.257](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.256...v0.1.257) (2023-10-01)
 
 
