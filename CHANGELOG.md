@@ -1,3 +1,10 @@
+## [0.1.264](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.263...v0.1.264) (2023-10-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pytz to v2023.3.post1 ([82ac6e8](https://github.com/timoa/ai-gpt-experiments/commit/82ac6e8243e08ea3031d3f3585b8bba994702fb0))
+
 ## [0.1.263](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.262...v0.1.263) (2023-10-04)
 
 
