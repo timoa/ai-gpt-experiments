@@ -1,3 +1,10 @@
+## [0.1.266](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.265...v0.1.266) (2023-10-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency dataclasses-json to v0.6.0 ([2b3d05b](https://github.com/timoa/ai-gpt-experiments/commit/2b3d05b01b978c59791b5fb84269c69bd9f83608))
+
 ## [0.1.265](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.264...v0.1.265) (2023-10-05)
 
 
