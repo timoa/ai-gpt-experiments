@@ -1,3 +1,10 @@
+## [0.1.267](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.266...v0.1.267) (2023-10-06)
+
+
+### Bug Fixes
+
+* **deps:** update actions/upload-artifact action to v3.1.3 ([ecc2338](https://github.com/timoa/ai-gpt-experiments/commit/ecc233817596ba13bb9833e4bfec4a4487586442))
+
 ## [0.1.266](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.265...v0.1.266) (2023-10-05)
 
 
