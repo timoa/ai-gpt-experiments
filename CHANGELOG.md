@@ -1,3 +1,10 @@
+## [0.1.268](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.267...v0.1.268) (2023-10-07)
+
+
+### Bug Fixes
+
+* **deps:** update actions/setup-python action to v4.7.1 ([26359da](https://github.com/timoa/ai-gpt-experiments/commit/26359da2ebd2e7fa201b7a870c0eccdf23eec679))
+
 ## [0.1.267](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.266...v0.1.267) (2023-10-06)
 
 
