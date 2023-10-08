@@ -1,3 +1,10 @@
+## [0.1.270](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.269...v0.1.270) (2023-10-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency xlsxwriter to v3.1.3 ([81e4846](https://github.com/timoa/ai-gpt-experiments/commit/81e48466c7aa0c22ba42096504c84ba34092a9b9))
+
 ## [0.1.269](https://github.com/timoa/ai-gpt-experiments/compare/v0.1.268...v0.1.269) (2023-10-08)
 
 
