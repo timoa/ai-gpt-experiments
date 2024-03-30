@@ -47,7 +47,7 @@ Pillow==9.5.0
 pycparser==2.21
 pydantic==1.10.12
 Pygments==2.16.1
-pyllamacpp==2.4.1
+pyllamacpp==2.4.3
 pypandoc==1.11
 pypdf==3.16.0
 pytesseract==0.3.10
