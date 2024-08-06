@@ -28,12 +28,12 @@
     },
     {
       "description": "Allow updates after 30 days and create a release",
-      "excludePackageNames": [
-        "renovate/renovate"
-      ],
       "separateMinorPatch": true,
       "minimumReleaseAge": "30 days",
-      "semanticCommitType": "fix"
+      "semanticCommitType": "fix",
+      "matchPackageNames": [
+        "!renovate/renovate"
+      ]
     }
   ]
 }
