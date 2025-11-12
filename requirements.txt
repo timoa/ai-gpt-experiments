@@ -33,7 +33,7 @@ monotonic==1.6
 msg-parser==1.2.0
 multidict==6.0.4
 mypy-extensions==1.0.0
-nltk==3.8.1
+nltk==3.9
 numexpr==2.8.6
 numpy==1.23.5
 olefile==0.46
