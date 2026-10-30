@@ -13,7 +13,7 @@ click==8.1.7
 commonmark==0.9.1
 cryptography==41.0.4
 dataclasses-json==0.6.0
-Deprecated==1.2.14
+Deprecated==1.2.18
 et-xmlfile==1.1.0
 faiss-cpu==1.7.4
 frozenlist==1.4.0
