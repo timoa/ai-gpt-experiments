@@ -31,7 +31,7 @@ marshmallow==3.20.1
 marshmallow-enum==1.5.1
 monotonic==1.6
 msg-parser==1.2.0
-multidict==6.0.4
+multidict==6.0.5
 mypy-extensions==1.0.0
 nltk==3.8.1
 numexpr==2.8.6
