@@ -50,7 +50,7 @@ Pygments==2.16.1
 pyllamacpp==2.4.1
 pypandoc==1.11
 pypdf==3.16.0
-pytesseract==0.3.10
+pytesseract==0.3.13
 python-dateutil==2.8.2
 python-docx==0.8.11
 python-magic==0.4.27
